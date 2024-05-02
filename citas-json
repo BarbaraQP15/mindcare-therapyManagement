@@ -1,0 +1,31 @@
+{
+  "citas": [
+    {
+      "id": 1,
+      "nombre": "Dr. Romina Caceres",
+      "fecha": "23 de febrero 2024",
+      "hora": "9:00 AM",
+      "estado":"Pendiente De Confirmar" ,
+      "paciente":"Barbara Susana Quezada Portalatino",
+      "tipo_consultorio":"Consultorio Virtual"
+    },
+    {
+      "id": 2,
+      "nombre": "Dr. Jimena Diaz",
+      "fecha": "15 de junio 2024",
+      "hora": "3:00 PM",
+      "estado":"Pagar" ,
+      "paciente":"Barbara Susana Quezada Portalatino",
+      "tipo_consultorio":"Consultorio Virtual"
+    },
+    {
+      "id": 3,
+      "nombre": "Dr. Alison Parker",
+      "fecha": "15 de octubre 2024",
+      "hora": "9:00 AM",
+      "estado":"Pagar" ,
+      "paciente":"Barbara Susana Quezada Portalatino",
+      "tipo_consultorio":"Consultorio Virtual"
+    }
+  ]
+}
