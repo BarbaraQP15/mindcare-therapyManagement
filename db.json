@@ -37,7 +37,7 @@
       "type_office":"Consultorio Virtual"
     }
   ],
-  "reuniones-psicologo": [
+  "reunionesPsicologo": [
     {
       "id": 1,
       "name": "Alison Gomez",
